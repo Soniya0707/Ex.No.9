@@ -46,7 +46,9 @@ Begin with basic prompts to observe how AI interprets simple actions.
 
 ## Example prompt:
 
-A girl playing badminton in kimono outfit.
+A cinematic anime-style scene of a young Japanese girl in a vibrant red floral kimono playing badminton in a serene traditional garden, surrounded by bamboo trees, stone lanterns, and wooden architecture.
+
+Soft golden sunlight, shallow depth of field, smooth slow-motion movement, realistic fabric physics, and dreamy atmospheric lighting inspired by Makoto Shinkai aesthetics.
 
 ## Output video:
 
@@ -59,7 +61,9 @@ Gradually increase the complexity by adding environmental details and actions.
 
 ## Example Prompt:
 
-A girl playing badminton in sports outfit in a badminton court.
+A cinematic slow-motion video of a young athletic woman playing tennis on an outdoor court during golden hour, wearing a neon green and white sports outfit, with dynamic racket swings and smooth body movement.
+
+Warm sunset lighting filtering through trees, realistic motion blur, shallow depth of field, soft lens flare, and professional sports-commercial aesthetics with ultra-natural colors.
 
 ## Output video:
 
@@ -71,8 +75,9 @@ Include elements such as transitions, time-lapse, or camera movement.
 
 ## Example Prompt:
 
-A time-lapse video of the sun setting over the mountains, with the camera slowly
-zooming out from the desert, capturing the sand and changing sky colors.
+A cinematic drone shot gliding across vast golden desert dunes during sunset, with detailed sand ripples leading toward the glowing horizon and distant mountain silhouettes.
+
+Dramatic volumetric lighting, warm orange and purple sky tones, realistic shadows, soft atmospheric haze, and ultra-smooth camera motion creating an epic cinematic landscape feel.
 
 ## Output video:
 
@@ -80,12 +85,11 @@ https://drive.google.com/file/d/15z1QnIQTyuuvxkfYEWv4y0fgx-qeNNRr/view?usp=drive
 
 ## 5. Test Different Video Styles
 
-Experiment with different genres such as animated, cinematic, artistic, or futuristic.
-
 ## Example Prompt:
 
-An animated scene of a japanese city at night, with lights,
-flying trains, and a bustling crowd.
+A cinematic cyberpunk-style Japanese city street at night, filled with glowing neon signboards, crowded sidewalks, towering buildings, and reflective wet roads under soft rain ambience.
+
+Smooth forward camera movement through the bustling alley, vibrant blue, pink, and red neon lighting, atmospheric fog, realistic reflections, and ultra-detailed urban depth inspired by futuristic Tokyo aesthetics.
 
 ## Output video:
 
