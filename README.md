@@ -50,6 +50,7 @@ A girl playing badminton in kimono outfit.
 
 ## Output video:
 
+https://drive.google.com/file/d/1Q7vdajADnyaUssSOllh7QHgT8hyung-n/view?usp=drivesdk
 
 
 ## 3. Experiment with More Detailed Prompts
@@ -61,7 +62,8 @@ Gradually increase the complexity by adding environmental details and actions.
 A girl playing badminton in sports outfit in a badminton court.
 
 ## Output video:
- PixVerse_V5_Image_Text_360P_A_girl_playing_bad.1.mp4 
+
+ https://drive.google.com/file/d/1LvOgK_8FI9peIwS0yKwhvTl8hBXKLmls/view?usp=drivesdk
 
 ## 4. Add Time and Motion Elements
 
@@ -73,7 +75,8 @@ A time-lapse video of the sun setting over the mountains, with the camera slowly
 zooming out from the desert, capturing the sand and changing sky colors.
 
 ## Output video:
- PixVerse_V5_Image_Text_360P_A_timelapse_video_.mp4 
+
+https://drive.google.com/file/d/15z1QnIQTyuuvxkfYEWv4y0fgx-qeNNRr/view?usp=drivesdk
 
 ## 5. Test Different Video Styles
 
@@ -85,7 +88,8 @@ An animated scene of a japanese city at night, with lights,
 flying trains, and a bustling crowd.
 
 ## Output video:
- PixVerse_V5_Image_Text_360P_An_animated_scene_.mp4 
+
+https://drive.google.com/file/d/1ZFevHWYJlJw4QEAipPbl1SgSeouy63sp/view?usp=drivesdk
 
 ## Result
 
